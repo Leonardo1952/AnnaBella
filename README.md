@@ -1,4 +1,4 @@
-#Anna Bella
+# Anna Bella
 
 
 
@@ -12,11 +12,11 @@ Anna Bella foi um projeto construido no curso de Web (o link segue a baixo) como
   - Fontes
   - Cores entre outros
 
-##Resultados obtidos:
+## Alguns resultados:
 
-<img src="https://github.com/Leonardo1952/AnnaBella/imagens/home.png" height="400px">
-<img src="https://github.com/Leonardo1952/AnnaBella/imagens/campanha_publicitaria.png" height="400px">
-<img src="https://github.com/Leonardo1952/AnnaBella/imagens/campanha_publicitaria2.png" height="400px">
+<img src="https://github.com/Leonardo1952/AnnaBella/blob/master/imagens/home.png" height="400px">
+<img src="https://github.com/Leonardo1952/AnnaBella/blob/master/imagens/campanha_publicitaria.png" height="400px">
+<img src="https://github.com/Leonardo1952/AnnaBella/blob/master/imagens/campanha_publicitaria2.png" height="400px">
 
 ## Ferramentas
 
