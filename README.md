@@ -2,8 +2,6 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Anna Bella foi um projeto construido no curso de Web (o link segue a baixo) como exercício e prática e uso da linguagem de marcação HTML em conjunto com o mecanismo de adicionamento de estilo css. Neste projeto foi usado alguns pontos assuntos interessantes e essenciais para construção de aplicações web com um visual um pouco mais profissional, como por exemplo:
   
   - Inline
@@ -13,7 +11,12 @@ Anna Bella foi um projeto construido no curso de Web (o link segue a baixo) como
   - Bordas
   - Fontes
   - Cores entre outros
-  
+
+##Resultados obtidos:
+
+<img src="https://github.com/Leonardo1952/AnnaBella/imagens/home.png" height="400px">
+<img src="https://github.com/Leonardo1952/AnnaBella/imagens/campanha_publicitaria.png" height="400px">
+<img src="https://github.com/Leonardo1952/AnnaBella/imagens/campanha_publicitaria2.png" height="400px">
 
 ## Ferramentas
 
